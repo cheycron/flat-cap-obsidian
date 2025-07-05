@@ -1,8 +1,10 @@
 # FlatCap Theme for Obsidian
 
-![Flat Cap Theme Preview](images/flatcap.svg)
+![Flat Cap Theme Preview](images/readme_logo.svg)
 
 FlatCap is a dark, minimalist, and eye-friendly theme meticulously crafted to provide a comfortable and focused note-taking experience in Obsidian.
+
+![Obsidian Demo](images/demo_obsidian.png)
 
 ## Philosophy
 
@@ -56,12 +58,6 @@ Used to indicate various states (error, warning, success) and to highlight speci
 - **FlatCap 17**: `#98c379` (Success) - Green for success indications.
 - **FlatCap 18**: `#c678dd` (Information) - Purple for informational messages.
 - **FlatCap 19**: `#56b6c2` (Highlight) - Cyan for syntax highlighting, prominent visual accents.
-
-## Example Implementations
-
-#### Obsidian
-
-![Obsidian Demo](obsidian.png)
 
 ## License
 
