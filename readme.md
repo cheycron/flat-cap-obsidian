@@ -1,4 +1,4 @@
-# FlatCap Theme for Obsidian
+# Flat Cap Theme for Obsidian
 
 ![Flat Cap Theme Preview](images/readme_logo.svg)
 
