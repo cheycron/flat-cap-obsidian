@@ -1,8 +1,10 @@
-# Flat Cap Theme for Obsidian
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/readme_logo.svg?raw=true" alt="flatcap"/>
+</p>
 
-![Flat Cap Theme Preview](images/readme_logo.svg)
-
-FlatCap is a dark, minimalist, and eye-friendly theme meticulously crafted to provide a comfortable and focused note-taking experience in Obsidian.
+<p align="center">
+  Flat Cap is a dark, minimalist, and eye-friendly theme meticulously crafted to provide a comfortable and focused note-taking experience in Obsidian.
+</p>
 
 ![Obsidian Demo](images/demo_obsidian.png)
 
