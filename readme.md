@@ -69,7 +69,3 @@ Used to indicate various states (error, warning, success) and to highlight speci
 - **FlatCap 17**: `#98c379` (Success) - Green for success indications.
 - **FlatCap 18**: `#c678dd` (Information) - Purple for informational messages.
 - **FlatCap 19**: `#56b6c2` (Highlight) - Cyan for syntax highlighting, prominent visual accents.
-
-## License
-
-This theme is released under the [MIT License](license.md).
