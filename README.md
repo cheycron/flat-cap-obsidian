@@ -9,6 +9,18 @@
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_obsidian.png?raw=true" alt="Flatcap Obsidian"/>
 </p>
 
+## How to Install
+
+You can install the **Flat Cap** theme directly from the Obsidian application.
+
+1.  Open Obsidian's **Settings**.
+2.  Go to the **Appearance** tab.
+3.  Under the **Themes** section, click the **Manage** button.
+4.  In the search bar, type `Flat Cap`.
+5.  Click **Install** and then **Use** to activate the theme.
+
+And you're all set! Enjoy a cleaner, more pleasant writing experience.
+
 ## Philosophy
 
 FlatCap draws inspiration from the fantastic design logic of the **[Nord theme](https://github.com/nordtheme/nord)**, embracing its principles of calm, clean aesthetics, and a dimmed pastel color approach. However, FlatCap diverges significantly in its color palette, which is uniquely derived from the visual language of the latest **Horizon OS** iterations by Meta for Oculus Quest. This fusion results in a theme that is both familiar in its minimalist comfort and fresh in its distinct, modern color scheme.
