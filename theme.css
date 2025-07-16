@@ -89,26 +89,26 @@ body {
 
 .theme-dark {
   /* FlatCap Color Palette */
-  --flatcap-0: #1c1e22;
-  --flatcap-1: #23262b;
-  --flatcap-2: #2d3036;
-  --flatcap-3: #373a40;
-  --flatcap-4: #42474e;
-  --flatcap-5: #d0d2d6;
-  --flatcap-6: #e4e6eb;
-  --flatcap-7: #ecedf0;
-  --flatcap-8: #f4f5f7;
-  --flatcap-9: #fcfdff;
-  --flatcap-10: #6b7f8e;
-  --flatcap-11: #7a90a2;
-  --flatcap-12: #8ea5b9;
-  --flatcap-13: #a3bbce;
-  --flatcap-14: #b8d1e3;
-  --flatcap-15: #e06c75;
-  --flatcap-16: #d19a66;
-  --flatcap-17: #98c379;
-  --flatcap-18: #c678dd;
-  --flatcap-19: #56b6c2;
+  --flatcap-0: #121418;
+  --flatcap-1: #191c22;
+  --flatcap-2: #23272f;
+  --flatcap-3: #303540;
+  --flatcap-4: #484f5c;
+  --flatcap-5: #b2b6bf;
+  --flatcap-6: #bfc2ca;
+  --flatcap-7: #cbced5;
+  --flatcap-8: #d8dadf;
+  --flatcap-9: #e4e6e9;
+  --flatcap-10: #5e81ac;
+  --flatcap-11: #81a1c1;
+  --flatcap-12: #88c0d0;
+  --flatcap-13: #8fbcbb;
+  --flatcap-14: #95b1b0;
+  --flatcap-15: #ff70a6;
+  --flatcap-16: #ffd670;
+  --flatcap-17: #84dcc6;
+  --flatcap-18: #68b6ef;
+  --flatcap-19: #00a8e0;
 
   /* Base UI */
   --background-primary: var(--flatcap-0);
@@ -128,12 +128,12 @@ body {
   --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
   --shadow-color: rgba(0, 0, 0, 0.3);
   --btn-shadow-color: rgba(0, 0, 0, 0.2);
-  --modal-border-color: var(--flatcap-2);
+  --modal-border-color: var(--flatcap-1);
 
   /* Text */
-  --text-normal: var(--flatcap-6);
-  --text-muted: var(--flatcap-5);
-  --text-faint: var(--flatcap-4);
+  --text-normal: var(--flatcap-7);
+  --text-muted: var(--flatcap-6);
+  --text-faint: var(--flatcap-5);
   --text-accent: var(--flatcap-12);
   --text-accent-hover: var(--flatcap-13);
   --text-on-accent: var(--flatcap-0);
@@ -144,9 +144,9 @@ body {
   --text-success: var(--flatcap-17);
   --text-warning: var(--flatcap-16);
   --text-information: var(--flatcap-18);
-  --text-blockquote: var(--flatcap-5);
-  --text-bold: var(--flatcap-7);
-  --text-italic: var(--flatcap-7);
+  --text-blockquote: var(--flatcap-6);
+  --text-bold: var(--flatcap-8);
+  --text-italic: var(--flatcap-8);
   --text-code: var(--flatcap-13);
   --text-formatting: var(--flatcap-4);
 
@@ -160,11 +160,11 @@ body {
   /* UI Components */
   --titlebar-background: var(--flatcap-0);
   --titlebar-background-focused: var(--flatcap-1);
-  --titlebar-text-color-focused: var(--flatcap-6);
+  --titlebar-text-color-focused: var(--flatcap-7);
   --ribbon-background: var(--flatcap-0);
   --sidebar-background: var(--flatcap-1);
   --tab-container-background: var(--flatcap-0);
-  --tab-text-color-focused-active: var(--flatcap-7);
+  --tab-text-color-focused-active: var(--flatcap-8);
   --tab-outline-color: var(--flatcap-3);
   --divider-color: var(--flatcap-3);
   --frame-divider-color: var(--flatcap-3);
@@ -216,17 +216,17 @@ body {
   --color-purple: var(--flatcap-18);
   --color-cyan: var(--flatcap-19);
   --color-blue: var(--flatcap-12);
-  --color-yellow: #d1b466; /* Derived from orange for yellow */
-  --color-pink: #e06c9f; /* Derived from red for pink */
+  --color-yellow: var(--flatcap-16); /* Derived from orange for yellow */
+  --color-pink: var(--flatcap-15); /* Derived from red for pink */
 
-  --color-red-rgb: 224, 108, 117;
-  --color-orange-rgb: 209, 154, 102;
-  --color-yellow-rgb: 209, 180, 102;
-  --color-green-rgb: 152, 195, 121;
-  --color-cyan-rgb: 86, 182, 194;
-  --color-blue-rgb: 142, 165, 185;
-  --color-purple-rgb: 198, 120, 221;
-  --color-pink-rgb: 224, 108, 159;
+  --color-red-rgb: 255, 112, 166;
+  --color-orange-rgb: 255, 214, 112;
+  --color-yellow-rgb: 255, 214, 112;
+  --color-green-rgb: 132, 220, 198;
+  --color-cyan-rgb: 0, 168, 224;
+  --color-blue-rgb: 136, 192, 208;
+  --color-purple-rgb: 104, 182, 239;
+  --color-pink-rgb: 255, 112, 166;
 
   --mono100: white;
   --mono0: black;
